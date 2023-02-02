@@ -10,29 +10,29 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Beulah Mathenge</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">About to graduate from Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Beulah-Matt" alt="Beulah" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/jrosseel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
+  <a href="https://www.linkedin.com/in/beulah-mathenge/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Beulah's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
+  <!-- <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Beulah's Twitter" /></a>  -->
   <span>&nbsp;</span>
   <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Beulah's Stack Overflow" /></a> 
 
   <!-- Other badges -->
   <!-- 
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a>  -->
+  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Beulah's Stack Overflow" /></a>  -->
 </p>
 
 <br/>
@@ -47,15 +47,15 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I'm an expert on **Rails Dev and React.**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+<!-- 📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/) -->
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](https://drive.google.com/file/d/1MIIC8tBd4JI1GdvEyjz2b2POhDoZrjny/view?usp=sharing)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently developing **a storage booking app**.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **Find me behind the violin 🎻 or drums 🪘**
 
 ### My work
 
@@ -70,7 +70,7 @@
 
 ### Interested ?
 
-📫 Reach me on **jente@elewa.ke**
+📫 Reach me on **beulahdaizy@gmail.com**
 
 <br />
 
@@ -82,16 +82,16 @@
 <h1>My experience</h1>
 
 <!-- EXPERIENCE I -->
-<h2 align="left">Project Kujali</h2>
+<h2 align="left">Project Hazina</h2>
 
 <p align="right"><b>2023</b></p>
 
 <p>
-  Kujali is a financial manager that allows businesses to plan for their spending through financial forecasts, and then to track their actual expenditure against what was forecasted.
+  Hazina is a storage booking application allowing for customers to book storage spaces depending on their location and  types of items stored.
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the financial management system, as well as designed and tested different cards for the development team to implement.
+  I have developed the base architecture for the storage management system, as well as designed the backend
 </p>
 <br/>
 
