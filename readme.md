@@ -100,9 +100,9 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
-
+| 19/01/23 	| 🏇 Updated the booking routes| Completed | [#22](https://github.com/Beulah-Matt/hazina-backend) |
+| 12/01/23	| 🏇 Upgraded signin logic to being handled through context.| Closed/Approved | [#22](https://github.com/Beulah-Matt/hazina-project-frontend) |
+<!-- | 12/01/23	| 🏇 Upgraded signin logic to being handled through context.| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) | -->
 
 ### The technologies I used
 
