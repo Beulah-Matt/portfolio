@@ -119,11 +119,11 @@
 <p align="right"><b>2023-Present</b></p>
 
 <p>
-  The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
+  The Elewa-Group is a Community concious entity which provides but not limited to a Learning Management System, natures talent through iTalanta and offers technological solutions to companies worldwide.
 </p>
 <p>
   <!-- Add summary of your own contributions -->
-  I have developed the base architecture for the visual chatbot editor, as well as was instrumental in the design of the chatbot engine.
+  I have worked on a reusable button compont and currently working on a Team Members Carousel
 </p>
 <br/>
 
@@ -132,10 +132,10 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Conversations state and model layer | Merged | [#79](https://github.com/italanta/kujali/issues/79) |
-| 01/08/22 	| 🚀 Add serverless backend capabilities | Merged | [#19](https://github.com/italanta/elewa/pull/19) |
-| 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) |
+| 26/09/22 	| 🚚🏠⚡ Reusable button component | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
+| 01/08/22 	| 🚀 Design a team Carousel| In Progress | [#41](https://github.com/italanta/elewa-group/pull/41) |
+<!-- | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
+| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
 
 
 ### The technologies I used
@@ -149,7 +149,7 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jrosseel&show_icons=true&locale=en" alt="jrosseel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Beulah-Matt&show_icons=true&locale=en" alt="jrosseel" /></p>
 
 <!-- END -->
 
@@ -170,8 +170,8 @@
 -- Angular -->
 --
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
---
--- AWS
+<!-- --
+-- AWS -->
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 --
 -- Azure
@@ -282,7 +282,7 @@
 -- KUBERNETES
 <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 -- -->
--- LINUX
+<!-- -- LINUX -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <!-- --
 -- MATERIAL DESIGN
@@ -296,8 +296,8 @@
 --
 -- SQL Server -->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
---
--- MySQL
+<!-- --
+-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 --
 <!-- -- NestJS
@@ -323,11 +323,11 @@
 -- 
 -- POSTGRES SQL -->
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
---
--- POSTMAN
+<!-- --
+-- POSTMAN -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
---
--- PUPPETEER
+<!-- --
+-- PUPPETEER -->
 <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> 
 <!-- --
 -- PYTHON
