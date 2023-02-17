@@ -126,14 +126,19 @@
   I have worked on a reusable button compont and currently working on a Team Members Carousel
 </p>
 <br/>
+<p>
+  Loooking to merge the social impact section issue#30
+<br/>
 
 <!-- Link in this table your actual contributions -->
 ### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 26/09/22 	| 🚚🏠⚡ Reusable button component | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
-| 01/08/22 	| 🚀 Design a team Carousel| In Progress | [#41](https://github.com/italanta/elewa-group/pull/41) |
+| 08/02/23 	| 🚚🏠⚡ Reusable button component | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
+| 10/02/23 	| 🚀 Design a team Carousel| In Progress | [#41](https://github.com/italanta/elewa-group/issues/41) |
+| 13/02/23 	| 🚀 Design a text and image banner| Closed | [#31](https://github.com/italanta/elewa-group/issues/31) |
+| 10/02/23 	| 🚀 Design a social impact people section| In Progress | [#41](https://github.com/italanta/elewa-group/issues/30) |
 <!-- | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
 | 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
 
