@@ -138,7 +138,8 @@
 | 08/02/23 	| 🚚🏠⚡ Reusable button component | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
 | 10/02/23 	| 🚀 Design a team Carousel| In Progress | [#41](https://github.com/italanta/elewa-group/issues/41) |
 | 13/02/23 	| 🚀 Design a text and image banner| Closed | [#31](https://github.com/italanta/elewa-group/issues/31) |
-| 10/02/23 	| 🚀 Design a social impact people section| In Progress | [#41](https://github.com/italanta/elewa-group/issues/30) |
+| 16/02/23 	| 🚀 Design a social impact people section| In Progress | [#41](https://github.com/italanta/elewa-group/issues/30) |
+| 20/02/23  | 🚀 Design a timeline history carousel| in Progress | [22](https://github.com/italanta/elewa-group/pull/237)  |
 <!-- | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
 | 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
 
