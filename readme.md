@@ -77,7 +77,54 @@
   -- 
   -->
 
-<h1>My experience</h1>
+## <h1>My Experience</h1>
+
+#
+<!-- EXPERIENCE II -->
+<h2 align="left">Project Elewa-Group</h2>
+
+<p align="right"><b>2023-Present</b></p>
+
+<p>
+  The Elewa-Group is a Community concious entity which provides but not limited to a Learning Management System, natures talent through iTalanta and offers technological solutions to companies worldwide.
+</p>
+<p>
+  <!-- Add summary of your own contributions -->
+  I have worked on a reusable button compont and currently working on a Team Members Carousel
+</p>
+<br/>
+<p>
+  Loooking to merge the Dynamic Footer [22](https://github.com/italanta/elewa-group/issues/252)
+<br/>
+
+<!-- Link in this table your actual contributions -->
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+| 27/02/23  | 🚀 Make a Brands Library and Add routing  | Merged | [22](https://github.com/italanta/elewa-group/pull/332)  |
+| 27/02/23  | 🚀 Make a Careers Library and Add routing  | Closed | [22](https://github.com/italanta/elewa-group/pull/330)  |
+| 27/02/23  | 🚚🏠⚡ Reusable brand banners component| Merged | [321](https://github.com/italanta/elewa-group/pull/337)  |
+| 23/02/23  | 🚀 Create a key Card Component to show Impact Figures| Merged | [22](https://github.com/italanta/elewa-group/pull/237)  |
+| 22/02/23  | 🚀 Make the footer Dynamic| Closed | [#252](https://github.com/italanta/elewa-group/pull/278)  |
+| 20/02/23  | 🚀 Design a timeline history carousel| Closed | [22](https://github.com/italanta/elewa-group/pull/237)  |
+| 16/02/23 	| 🚀 Design a social impact people section| Merged | [#41](https://github.com/italanta/elewa-group/issues/30) |
+| 13/02/23 	| 🚀 Design a text and image banner| Closed | [#31](https://github.com/italanta/elewa-group/pull/184) |
+| 10/02/23 	| 🚀 Design a team Carousel| In Progress | [#41](https://github.com/italanta/elewa-group/issues/41) |
+| 08/02/23 	| 🚚🏠⚡ Reusable button component | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
+
+
+
+
+<!-- | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
+| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
+
+
+### The technologies I used
+
+<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<!-- END: EXPERIENCE I -->
 
 <!-- EXPERIENCE I -->
 <h2 align="left">Project Hazina</h2>
@@ -112,52 +159,6 @@
 
 <!-- END: EXPERIENCE I -->
 
-#
-<!-- EXPERIENCE II -->
-<h2 align="left">Project Elewa-Group</h2>
-
-<p align="right"><b>2023-Present</b></p>
-
-<p>
-  The Elewa-Group is a Community concious entity which provides but not limited to a Learning Management System, natures talent through iTalanta and offers technological solutions to companies worldwide.
-</p>
-<p>
-  <!-- Add summary of your own contributions -->
-  I have worked on a reusable button compont and currently working on a Team Members Carousel
-</p>
-<br/>
-<p>
-  Loooking to merge the social impact section issue#30
-<br/>
-
-<!-- Link in this table your actual contributions -->
-### My contributions
-
-| Date     	| Issue 	| Status 	| Link 	|
-|----------	|-------	|--------	|------	|
-| 27/02/23  | 🚀 Make a Brands Library and Add routing  | Merged | [22](https://github.com/italanta/elewa-group/pull/332)  |
-| 27/02/23  | 🚀 Make a Careers Library and Add routing  | Closed | [22](https://github.com/italanta/elewa-group/pull/330)  |
-| 27/02/23  | 🚚🏠⚡ Reusable brand banners component| Merged | [321](https://github.com/italanta/elewa-group/pull/337)  |
-| 23/02/23  | 🚀 Create a key Card Component to show Impact Figures| Merged | [22](https://github.com/italanta/elewa-group/pull/237)  |
-| 22/02/23  | 🚀 Make the footer Dynamic| Closed | [#252](https://github.com/italanta/elewa-group/pull/278)  |
-| 20/02/23  | 🚀 Design a timeline history carousel| Closed | [22](https://github.com/italanta/elewa-group/pull/237)  |
-| 16/02/23 	| 🚀 Design a social impact people section| Merged | [#41](https://github.com/italanta/elewa-group/issues/30) |
-| 13/02/23 	| 🚀 Design a text and image banner| Closed | [#31](https://github.com/italanta/elewa-group/pull/184) |
-| 10/02/23 	| 🚀 Design a team Carousel| In Progress | [#41](https://github.com/italanta/elewa-group/issues/41) |
-| 08/02/23 	| 🚚🏠⚡ Reusable button component | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
-
-
-
-
-<!-- | 12/07/22 	| 🚀 Setup the application | Merged | [#2](https://github.com/italanta/elewa/pull/2) |
-| 11/07/22 	| 🏠 Data model for story and story blocks | Merged | [#1](https://github.com/italanta/elewa/pull/1) | -->
-
-
-### The technologies I used
-
-<p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
-
-<!-- END: EXPERIENCE I -->
 
 <!-- Section: GITHUB OVERVIEW -->
 #
