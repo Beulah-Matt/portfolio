@@ -127,6 +127,7 @@
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
 
+| 27/02/23  | 🚀 Make a Brands Library and Add routing  | Merged| [318]https://github.com/italanta/elewa-group/pull/332  |
 | 27/02/23  | 🚀 Make a Careers Library and Add routing  | Closed | [22](https://github.com/italanta/elewa-group/pull/330)  |
 | 27/02/23  | 🚚🏠⚡ Reusable brand banners component| Merged | [321](https://github.com/italanta/elewa-group/pull/337)  |
 | 23/02/23  | 🚀 Create a key Card Component to show Impact Figures| Merged | [22](https://github.com/italanta/elewa-group/pull/237)  |
