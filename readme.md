@@ -45,7 +45,7 @@
 
 ### Get to know me
 
-💬 I'm an expert on **Rails and Reacts and Javascript.**
+💬 I'm an expert on **Ruby, RailsReactsJS, Javascript, HTML5 and CSS.**
 
 📝 I regularly write articles on [https://medium.com/@beulahdaizy/](https://medium.com/@beulahdaizy/)
 
@@ -79,6 +79,30 @@
 
 ## <h1>My Experience</h1>
 
+<h2 align="left">Project Elewa</h2>
+
+<p align="right"><b>2023-Present</b></p>
+
+<p>
+  The Elewa CLM is the world's first Conversational Learning Manager
+</p>
+
+<p>
+  <!-- Add summary of your own contributions -->
+  I have worked on an interactive video upload modal and currently working on the save functionality of adding a story to a channel
+</p>
+<br/>
+<p>
+  Loooking to merge the Video upload Modal [336](https://github.com/italanta/elewa/issues/336)
+<br/>
+
+### My contributions
+
+| Date     	| Issue 	| Status 	| Link 	|
+|----------	|-------	|--------	|------	|
+
+| 10/03/23  | 🚀 Add save functionality to update channel modal |In Progress | [342](https://github.com/italanta/elewa/issues/342)  |
+| 04/03/23  | 🚀 Make a video upload modal | In Progress | [336](https://github.com/italanta/elewa/issues/336)  |
 #
 <!-- EXPERIENCE II -->
 <h2 align="left">Project Elewa-Group</h2>
@@ -102,7 +126,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 27/02/23  | 🚀 Make a Brands Library and Add routing  | Merged | [22](https://github.com/italanta/elewa-group/pull/332)  |
+
 | 27/02/23  | 🚀 Make a Careers Library and Add routing  | Closed | [22](https://github.com/italanta/elewa-group/pull/330)  |
 | 27/02/23  | 🚚🏠⚡ Reusable brand banners component| Merged | [321](https://github.com/italanta/elewa-group/pull/337)  |
 | 23/02/23  | 🚀 Create a key Card Component to show Impact Figures| Merged | [22](https://github.com/italanta/elewa-group/pull/237)  |
