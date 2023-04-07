@@ -100,8 +100,9 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-
-| 10/03/23  | 🚀 Add save functionality to update channel modal |In Progress | [342](https://github.com/italanta/elewa/issues/342)  |
+| 04/04/23  | 🚀 Fix Bug when updating an active bot image |In Progress | [334](https://github.com/italanta/elewa/issues/334)  |
+| 21/03/23  | 🚀 Move the End button to the blocks lists #355 |Merged | [380](https://github.com/italanta/elewa/pull/380)  |
+| 10/03/23  | 🚀 Add save functionality to update channel modal |Help Needed | [342](https://github.com/italanta/elewa/issues/342)  |
 | 04/03/23  | 🚀 Make a video upload modal | In Progress | [336](https://github.com/italanta/elewa/issues/336)  |
 #
 <!-- EXPERIENCE II -->
