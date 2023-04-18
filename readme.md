@@ -100,7 +100,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 11/04/23  |:floppy_disk: :pushpin: Save Location Input Block Result As a Variable #406 |In Progress | [334](https://github.com/italanta/elewa/issues/406)  |
+| 11/04/23  |:floppy_disk: :pushpin: Save Location Input Block Result As a Variable #406 | Merged | [414](https://github.com/italanta/elewa/pull/414)  |
 | 04/04/23  | 🚀 Fix Bug when updating an active bot image |In Progress | [334](https://github.com/italanta/elewa/issues/334)  |
 | 21/03/23  | 🚀 Move the End button to the blocks lists #355 |Merged | [380](https://github.com/italanta/elewa/pull/380)  |
 | 10/03/23  | 🚀 Add save functionality to update channel modal |Help Needed | [342](https://github.com/italanta/elewa/issues/342)  |
