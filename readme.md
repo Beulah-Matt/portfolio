@@ -100,11 +100,11 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 11/04/23  |:floppy_disk: :pushpin: Save Location Input Block Result As a Variable #406 | Merged | [414](https://github.com/italanta/elewa/pull/414)  |
-| 04/04/23  | 🚀 Fix Bug when updating an active bot image |In Progress | [334](https://github.com/italanta/elewa/issues/334)  |
-| 21/03/23  | 🚀 Move the End button to the blocks lists #355 |Merged | [380](https://github.com/italanta/elewa/pull/380)  |
-| 10/03/23  | 🚀 Add save functionality to update channel modal |Help Needed | [342](https://github.com/italanta/elewa/issues/342)  |
-| 04/03/23  | 🚀 Make a video upload modal | In Progress | [336](https://github.com/italanta/elewa/issues/336)  |
+| 11/04/23  |:floppy_disk: :pushpin: Save Location Input Block Result As a Variable [406](https://github.com/italanta/elewa/issues/406)| Merged | [414](https://github.com/italanta/elewa/pull/414)  |
+| 04/04/23  | 🚀 Fix Bug when updating an active bot image [334](https://github.com/italanta/elewa/issues/334)|In Progress | [334](https://github.com/italanta/elewa/issues/334)  |
+| 21/03/23  | 🚀 Move the End button to the blocks lists [355](https://github.com/italanta/elewa/issues/355) |Merged | [380](https://github.com/italanta/elewa/pull/380)  |
+| 10/03/23  | 🚀 Add save functionality to update channel modal [342](https://github.com/italanta/elewa/issues/342)|Help Needed | [342](https://github.com/italanta/elewa/issues/342)  |
+| 04/03/23  | 🚀 Make a video upload modal [336](https://github.com/italanta/elewa/issues/336) | In Progress | [336](https://github.com/italanta/elewa/issues/336)  |
 #
 <!-- EXPERIENCE II -->
 <h2 align="left">Project Elewa-Group</h2>
@@ -120,7 +120,7 @@
 </p>
 <br/>
 <p>
-  Loooking to merge the Dynamic Footer [22](https://github.com/italanta/elewa-group/issues/252)
+  Loooking to merge the Dynamic Footer [252](https://github.com/italanta/elewa-group/issues/252)
 <br/>
 
 <!-- Link in this table your actual contributions -->
@@ -128,16 +128,16 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 27/02/23  | 🚀 Make a Brands Library and Add routing #318 | Merged| [332]https://github.com/italanta/elewa-group/pull/332  |
-| 27/02/23  | 🚀 Make a Careers Library and Add routing  #22 | Closed | [330](https://github.com/italanta/elewa-group/pull/330)  |
-| 27/02/23  | 🚚🏠⚡ Reusable brand banners component #321 | Merged | [337](https://github.com/italanta/elewa-group/pull/337)  |
-| 23/02/23  | 🚀 Create a key Card Component to show Impact Figures #244| Merged | [297](https://github.com/italanta/elewa-group/pull/297)  |
-| 22/02/23  | 🚀 Make the footer Dynamic #252 | Closed | [278](https://github.com/italanta/elewa-group/pull/278)  |
-| 20/02/23  | 🚀 Design a timeline history carousel #22| Closed | [237](https://github.com/italanta/elewa-group/pull/237)  |
-| 16/02/23 	| 🚀 Design a social impact people section #30| Merged | [#264](https://github.com/italanta/elewa-group/pull/264) |
-| 13/02/23 	| 🚀 Design a text and image banner #31 | Closed | [184](https://github.com/italanta/elewa-group/pull/184) |
-| 10/02/23 	| 🚀 Design a team Carousel #41 | In Progress | [41](https://github.com/italanta/elewa-group/issues/41) |
-| 08/02/23 	| 🚚🏠⚡ Reusable button component #13 | Closed | [#13](https://github.com/italanta/elewa-group/issues/13) |
+| 27/02/23  | 🚀 Make a Brands Library and Add routing [#318](https://github.com/italanta/elewa-group/issues/318) | Merged| [332](https://github.com/italanta/elewa-group/pull/332)  |
+| 27/02/23  | 🚀 Make a Careers Library and Add routing  [#311](https://github.com/italanta/elewa-group/issues/311) | Closed | [330](https://github.com/italanta/elewa-group/pull/330)  |
+| 27/02/23  | 🚚🏠⚡ Reusable brand banners component [321](https://github.com/italanta/elewa-group/issues/321) | Merged | [337](https://github.com/italanta/elewa-group/pull/337)  |
+| 23/02/23  | 🚀 Create a key Card Component to show Impact Figures [#244](https://github.com/italanta/elewa-group/issues/244)| Merged | [297](https://github.com/italanta/elewa-group/pull/297)  |
+| 22/02/23  | 🚀 Make the footer Dynamic [#252](https://github.com/italanta/elewa-group/issues/252) | Closed | [278](https://github.com/italanta/elewa-group/pull/278)  |
+| 20/02/23  | 🚀 Design a timeline history carousel [#22](https://github.com/italanta/elewa-group/issues/22)| Closed | [237](https://github.com/italanta/elewa-group/pull/237)  |
+| 16/02/23 	| 🚀 Design a social impact people section [#30](https://github.com/italanta/elewa-group/issues/30)| Merged | [264](https://github.com/italanta/elewa-group/pull/264) |
+| 13/02/23 	| 🚀 Design a text and image banner [#31](https://github.com/italanta/elewa-group/issues/31) | Closed | [184](https://github.com/italanta/elewa-group/pull/184) |
+| 10/02/23 	| 🚀 Design a team Carousel [#41](https://github.com/italanta/elewa-group/issues/41) | In Progress | [41](https://github.com/italanta/elewa-group/issues/41) |
+| 08/02/23 	| 🚚🏠⚡ Reusable button component [#13](https://github.com/italanta/elewa-group/issues/13) | Closed | [13](https://github.com/italanta/elewa-group/issues/13) |
 
 
 
