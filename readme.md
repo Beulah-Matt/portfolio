@@ -89,7 +89,7 @@
 
 <p>
   <!-- Add summary of your own contributions -->
-  I have worked on an interactive video upload modal and currently working on the save functionality of adding a story to a channel
+  I have worked on an adding validations and saving inputs as variables for multiple blocks and currently working on interactive video upload modal
 </p>
 <br/>
 <p>
@@ -100,6 +100,10 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
+|03/05/23  |:floppy_disk: Save List Block Result As a Variable [445](https://github.com/italanta/elewa/issues/445)| Merged | [461](https://github.com/italanta/elewa/pull/461)  |
+|24/04/23  |:floppy_disk: Save Image Input Block Result As a Variable [441](https://github.com/italanta/elewa/issues/441)| Merged | [442](https://github.com/italanta/elewa/pull/442)  |
+| 17/04/23  |:art: :memo: Add validation for text fields on blocks [305](https://github.com/italanta/elewa/issues/305)| Merged | [441](https://github.com/italanta/elewa/pull/441)  |
+| 14/04/23  |:toolbox: Add Hover Tooltip to Delete Icon of Connections [428](https://github.com/italanta/elewa/issues/428)| Closed | [434](https://github.com/italanta/elewa/pull/434)  |
 | 11/04/23  |:floppy_disk: :pushpin: Save Location Input Block Result As a Variable [406](https://github.com/italanta/elewa/issues/406)| Merged | [414](https://github.com/italanta/elewa/pull/414)  |
 | 04/04/23  | 🚀 Fix Bug when updating an active bot image [334](https://github.com/italanta/elewa/issues/334)|In Progress | [334](https://github.com/italanta/elewa/issues/334)  |
 | 21/03/23  | 🚀 Move the End button to the blocks lists [355](https://github.com/italanta/elewa/issues/355) |Merged | [380](https://github.com/italanta/elewa/pull/380)  |
