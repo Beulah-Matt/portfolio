@@ -100,6 +100,8 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
+|24/05/23  |:floppy_disk: Video is not uploaded when I close the modal [486](https://github.com/italanta/elewa/issues/486)| Complete | [502](https://github.com/italanta/elewa/pull/502)  |
+|18/05/23  |:bug: Deleting a block with connections when unsaved [424](https://github.com/italanta/elewa/issues/424)| Merged | [490](https://github.com/italanta/elewa/pull/490)  |
 |03/05/23  |:floppy_disk: Save List Block Result As a Variable [445](https://github.com/italanta/elewa/issues/445)| Merged | [461](https://github.com/italanta/elewa/pull/461)  |
 |24/04/23  |:floppy_disk: Save Image Input Block Result As a Variable [441](https://github.com/italanta/elewa/issues/441)| Merged | [442](https://github.com/italanta/elewa/pull/442)  |
 | 17/04/23  |:art: :memo: Add validation for text fields on blocks [305](https://github.com/italanta/elewa/issues/305)| Merged | [441](https://github.com/italanta/elewa/pull/441)  |
