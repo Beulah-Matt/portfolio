@@ -100,6 +100,8 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
+|21/06/23  |🎨 📈 📜 Improvement on the Assessment List Page [533](https://github.com/italanta/elewa/issues/533)| Merged | [536](https://github.com/italanta/elewa/pull/536)  |
+|10/06/23  |:art: Restrict Blocks from overlapping each other [506](https://github.com/italanta/elewa/issues/506)| In Progress | [506](https://github.com/italanta/elewa/issues/506) |
 |24/05/23  |:floppy_disk: Video is not uploaded when I close the modal [486](https://github.com/italanta/elewa/issues/486)| Complete | [502](https://github.com/italanta/elewa/pull/502)  |
 |18/05/23  |:bug: Deleting a block with connections when unsaved [424](https://github.com/italanta/elewa/issues/424)| Merged | [490](https://github.com/italanta/elewa/pull/490)  |
 |03/05/23  |:floppy_disk: Save List Block Result As a Variable [445](https://github.com/italanta/elewa/issues/445)| Merged | [461](https://github.com/italanta/elewa/pull/461)  |
