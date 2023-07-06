@@ -62,7 +62,7 @@
 🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/elewa-group/issues/41)!
+<!-- 🤝 About to score [this bounty](https://github.com/italanta/elewa-group/issues/41)! -->
 
 👨‍💻 Review my projects at [https://github.com/Beulah-Matt](https://github.com/Beulah-Matt)
 
@@ -93,13 +93,14 @@
 </p>
 <br/>
 <p>
-  Loooking to merge the Video upload Modal [336](https://github.com/italanta/elewa/issues/336)
+  <!-- Loooking to merge the Video upload Modal [336](https://github.com/italanta/elewa/issues/336) -->
 <br/>
 
 ### My contributions
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
+|06/07/23  |:bug: :mag: When I search for an item I should only see relevant results [466](https://github.com/italanta/elewa/issues/466)| Merged | [545](https://github.com/italanta/elewa/pull/545)  |
 |21/06/23  |🎨 📈 📜 Improvement on the Assessment List Page [533](https://github.com/italanta/elewa/issues/533)| Merged | [536](https://github.com/italanta/elewa/pull/536)  |
 |10/06/23  |:art: Restrict Blocks from overlapping each other [506](https://github.com/italanta/elewa/issues/506)| In Progress | [506](https://github.com/italanta/elewa/issues/506) |
 |24/05/23  |:floppy_disk: Video is not uploaded when I close the modal [486](https://github.com/italanta/elewa/issues/486)| Complete | [502](https://github.com/italanta/elewa/pull/502)  |
