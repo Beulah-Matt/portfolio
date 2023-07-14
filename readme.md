@@ -100,6 +100,7 @@
 
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
+|10/07/23  |🎨 Update main side menu items to match design [549](https://github.com/italanta/elewa/issues/549)| Merged | [550](https://github.com/italanta/elewa/pull/550)  |
 |06/07/23  |:bug: :mag: When I search for an item I should only see relevant results [466](https://github.com/italanta/elewa/issues/466)| Merged | [545](https://github.com/italanta/elewa/pull/545)  |
 |21/06/23  |🎨 📈 📜 Improvement on the Assessment List Page [533](https://github.com/italanta/elewa/issues/533)| Merged | [536](https://github.com/italanta/elewa/pull/536)  |
 |10/06/23  |:art: Restrict Blocks from overlapping each other [506](https://github.com/italanta/elewa/issues/506)| In Progress | [506](https://github.com/italanta/elewa/issues/506) |
@@ -113,7 +114,7 @@
 | 04/04/23  | 🚀 Fix Bug when updating an active bot image [334](https://github.com/italanta/elewa/issues/334)|In Progress | [334](https://github.com/italanta/elewa/issues/334)  |
 | 21/03/23  | 🚀 Move the End button to the blocks lists [355](https://github.com/italanta/elewa/issues/355) |Merged | [380](https://github.com/italanta/elewa/pull/380)  |
 | 10/03/23  | 🚀 Add save functionality to update channel modal [342](https://github.com/italanta/elewa/issues/342)|Help Needed | [342](https://github.com/italanta/elewa/issues/342)  |
-| 04/03/23  | 🚀 Make a video upload modal [336](https://github.com/italanta/elewa/issues/336) | In Progress | [336](https://github.com/italanta/elewa/issues/336)  |
+| 04/03/23  | 🚀 Make a video upload modal [336](https://github.com/italanta/elewa/issues/336) | Merged| [411](https://github.com/italanta/elewa/pull/441)  |
 #
 <!-- EXPERIENCE II -->
 <h2 align="left">Project Elewa-Group</h2>
